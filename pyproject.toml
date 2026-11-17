@@ -1,0 +1,10 @@
+[project]
+name = "shopping-mall-db-supabase"
+version = "0.1.0"
+description = "의류 쇼핑몰 (회원/상품/주문) Supabase CRUD 실습"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "python-dotenv>=1.2.4",
+    "supabase>=2.34.1",
+]
